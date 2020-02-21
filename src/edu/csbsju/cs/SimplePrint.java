@@ -4,6 +4,7 @@
 package edu.csbsju.cs;
 
 /**
+ * This class is used to simply print out the Name and Age inputed
  * @author mheimer001
  *
  */
