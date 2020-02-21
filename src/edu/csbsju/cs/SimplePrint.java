@@ -26,6 +26,8 @@ public class SimplePrint {
 
 
 	/**
+	 * This main method prints out the names of the authors as well as printing out how many args there have 
+	 * been entered in as an array of strings
 	 * @param args
 	 */
 	public static void main(String[] args) {
