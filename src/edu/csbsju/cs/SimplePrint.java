@@ -14,6 +14,7 @@ public class SimplePrint {
 	private int pAge;
 
 	/**
+	 * this constructor makes a SimplePrint object made with a name and age
 	 * @param pName
 	 * @param pAge
 	 */
