@@ -40,6 +40,7 @@ public class SimplePrint {
 	
 	
 	/**
+	 * this returns the name entered the SimplePrint Object
 	 * @return the pName
 	 */
 	public String getpName() {
@@ -47,6 +48,7 @@ public class SimplePrint {
 	}
 
 	/**
+	 * this changes the name of the SimplePrint Object
 	 * @param pName the pName to set
 	 */
 	public void setpName(String pName) {
